@@ -1,3 +1,3 @@
 # react_app4
 
-## google maps with auto-complete functionality in the search box
+## google maps with the auto-complete functionality in the search box
